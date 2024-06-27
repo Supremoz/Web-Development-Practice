@@ -1,10 +1,10 @@
 p{
-    font-family: Arial;
+    font-family: Roboto;
     margin-top: 0;
     margin-bottom: 0;
 }
 .video-title {
-    font-family: Arial;
+   
     font-size: 18px;
     font-weight: bold;
     width: 280px;
@@ -13,14 +13,14 @@ p{
 
 }
 .video-stats {
-    font-family: Arial;
+    
     font-size: 14px;
     color: rgb(96, 96, 96);
     margin-top: 0;
     margin-bottom: 20px;
 }
 .video-author {
-    font-family: Arial;
+    
     color: rgb(96, 96, 96);
     font-size: 14px;
     margin-top: 0;
@@ -28,7 +28,7 @@ p{
     
 }
 .video-info {
-    font-family: Arial;
+   
     font-size: 14px;
     color: rgb(96, 96, 96);
     width: 280px;

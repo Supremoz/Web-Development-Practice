@@ -1,15 +1,15 @@
 .subscribe-btn {
-    background-color: rgb(200, 0, 0);
-    color: white;
-    border: none;
-    padding-top: 10px;
-    padding-bottom:10px;
-    padding-left: 16px;
-    padding-right: 16px;
-    border-radius: 2px;
-    cursor: pointer;
-    margin-right: 8px;
-    transition: opacity 0.15s;
+    background-color: rgb(200, 0, 0); /*background color of the button*/
+    color: white;                     /*font color*/
+    border: none;                       /*border style*/
+    padding-top: 10px;                  /*font distance to the top*/
+    padding-bottom:10px;                /*font distance to the bottom*/
+    padding-left: 16px;                 /*font distance to the left*/
+    padding-right: 16px;                /*font distance to the left*/
+    border-radius: 2px;                 /*curve the edges*/
+    cursor: pointer;                    /*changing the cursor to pointer*/
+    margin-right: 8px;                  /*spacing in the right*/
+    transition: opacity 0.15s;          /*setting the opacity*/
 
 
 }
